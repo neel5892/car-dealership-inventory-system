@@ -452,3 +452,10 @@ No license has been specified yet.
 
 
 
+## Screenshots
+
+### Admin Dashboard
+
+The application dashboard showing the vehicle inventory and administrator interface.
+
+![Car Dealership Admin Dashboard](screenshots/dashboard.png)
