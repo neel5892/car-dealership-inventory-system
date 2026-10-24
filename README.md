@@ -414,15 +414,21 @@ Consult `backend/src/app.ts` and `backend/src/auth/authRoutes.ts` for the implem
 
 
 
-\## My AI Usage
+## My AI Usage
 
+### AI Tool Used
+- **ChatGPT (OpenAI):** Used as an AI development assistant throughout this project.
 
+### How I Used AI
+I used ChatGPT for backend implementation, JWT authentication, role-based authorization, React and Tailwind CSS development, TypeScript debugging, automated test development, Git and GitHub workflows, and project documentation.
 
-AI assistance was used during development to help with implementation, debugging, test development, TypeScript errors, frontend integration, Git workflows, and documentation. The application was tested locally, including the backend test suite and frontend production build.
+### Verification and Responsibility
+I ran the backend TypeScript check, executed the backend test suite, and built the frontend for production. The latest recorded backend test run passed all 21 tests, and the frontend production build completed successfully.
 
+I reviewed AI suggestions, ran commands, investigated errors, and tested the application. AI assistance did not replace my responsibility for validating the implementation and understanding the code.
 
-
-The developer remains responsible for understanding, validating, and maintaining the submitted code. The detailed prompts and conversation records should be documented in `PROMPTS.md` as required by the assignment.
+### Reflection
+AI helped me work through errors more efficiently and understand how the backend, database, authentication, and frontend fit together. I learned that AI-generated code must be tested carefully: successful compilation does not guarantee correct functionality, and passing tests do not prove complete test coverage. I am responsible for understanding and explaining the submitted code during an interview.
 
 
 
